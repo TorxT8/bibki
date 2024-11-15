@@ -7,6 +7,7 @@ color_car = []
 price_car = []
 fari_car = []
 door_car = []
+joker = 1488
 
 j = car.readline()
 file = j.split("&")
